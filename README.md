@@ -1,1 +1,2 @@
-# uk_accident_dashboard
+# Road Accident Severity Analysis Project
+(… full README content …)
